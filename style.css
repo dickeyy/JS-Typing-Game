@@ -65,3 +65,22 @@ body, .quote-input {
     color: red;
     text-decoration: unde;
 }
+
+.creds {
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+a {
+    color: #006BB0;
+    font-weight: 900;
+    text-decoration: none;
+}
+
+.signature {
+    color: gray;
+    text-align: center;
+    
+}
