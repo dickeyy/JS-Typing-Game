@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "typing-kyledickey",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
